@@ -1,0 +1,33 @@
+{
+  "name": "01-foundation",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+<<<<<<< HEAD
+    "start": "astro dev",
+    "build": "astro check && astro build",
+=======
+    "build": "astro build",
+>>>>>>> 0a974373bb2a6d8d47b1810f361788808d26bc04
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "@astrojs/check": "^0.9.10",
+    "astro": "^7.3.3",
+    "typescript": "^6.0.3"
+  },
+  "allowScripts": {
+    "esbuild": true
+  }
+}
+=======
+    "astro": "^7.2.4"
+  }
+}
+>>>>>>> 0a974373bb2a6d8d47b1810f361788808d26bc04
